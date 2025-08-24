@@ -1,1 +1,349 @@
-
+{
+  "id": "680e30f0c96043d36c8ca600",
+  "name": "Content System",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "idOrganization": "680e30ef662f44022e3cae98",
+  "idEnterprise": null,
+  "pinned": false,
+  "url": "https://trello.com/b/k8YeLcwV/content-system",
+  "shortUrl": "https://trello.com/b/k8YeLcwV",
+  "prefs": {
+    "permissionLevel": "org",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "showCompleteStatus": true,
+    "cardCounts": false,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [],
+    "switcherViews": [
+      {
+        "viewType": "Board",
+        "enabled": true
+      },
+      {
+        "viewType": "Table",
+        "enabled": true
+      },
+      {
+        "viewType": "Calendar",
+        "enabled": false
+      },
+      {
+        "viewType": "Dashboard",
+        "enabled": false
+      },
+      {
+        "viewType": "Timeline",
+        "enabled": false
+      },
+      {
+        "viewType": "Map",
+        "enabled": false
+      }
+    ],
+    "autoArchive": null,
+    "background": "gradient-rainbow",
+    "backgroundColor": "#A869C1",
+    "backgroundDarkColor": null,
+    "backgroundImage": "https://d2k1ftgv7pobq7.cloudfront.net/images/backgrounds/gradients/rainbow.svg",
+    "backgroundDarkImage": null,
+    "backgroundImageScaled": null,
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "sharedSourceUrl": null,
+    "backgroundBottomColor": "#E774BB",
+    "backgroundTopColor": "#6E5DC6",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+  },
+  "cards": [
+    {
+      "id": "680e30f0c96043d36c8ca642",
+      "name": "https://www.loom.com/share/0e6813b76cd44ca48d892af56be658f5",
+      "idList": "680e30f0c96043d36c8ca5fc",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-04-27T13:28:16.536Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "680e30f0c96043d36c8ca63e",
+      "name": "Capture from email, Slack, and Teams",
+      "idList": "680e30f0c96043d36c8ca5fc",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-04-27T13:28:16.964Z",
+      "closed": false,
+      "desc": "**Quickly add to-dos from email, Slack, Microsoft Teams, and more!**\n\n- **Send emails to your Trello Inbox as cards** for reminders and to-dos by forwarding an email to [inbox@app.trello.com](mailto:inbox@app.trello.com \"‌\"). Find out more by [visiting our help page](https://support.atlassian.com/trello/docs/creating-cards-by-email/ \"‌\").\n- **Save important messages from Slack and Microsoft Teams** **to your Inbox** so you can read, process, and prioritize them later. Try out the different ways in the checklist below!\n\n[https://www.loom.com/share/f6b5f37a57904b56ae05ce6f1a4c5225?sid=e0eb8092-414f-4eaf-99c4-d13f864fcb05](https://www.loom.com/share/f6b5f37a57904b56ae05ce6f1a4c5225?sid=e0eb8092-414f-4eaf-99c4-d13f864fcb05 \"smartCard-embed\")\n\n[https://www.loom.com/share/edbf69cbd3074bc1a9bbc5569b5f4d60?sid=e225b951-a4b8-4d0f-b2e2-69299423aab4](https://www.loom.com/share/edbf69cbd3074bc1a9bbc5569b5f4d60?sid=e225b951-a4b8-4d0f-b2e2-69299423aab4 \"smartCard-embed\")\n\n[https://www.loom.com/share/5893d52dac36450f8e1f1190d8e92282](https://www.loom.com/share/5893d52dac36450f8e1f1190d8e92282 \"smartCard-embed\")"
+    },
+    {
+      "id": "680e30f0c96043d36c8ca640",
+      "name": "Dive into Trello basics",
+      "idList": "680e30f0c96043d36c8ca5fc",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-04-27T13:28:16.954Z",
+      "closed": false,
+      "desc": "- **Organize your to-dos with boards** by curating Lists and using card features\n- **Schedule with Planner** by connecting your calendar to Trello and scheduling time to focus on getting things done.\n- **Tie it all together** by viewing your Inbox, boards, and Planner side-by-side to organize all your to-dos. You can expand or collapse each panel using the navigation bar.\n\n[https://www.loom.com/share/0b76968e11e74f54affba7e080800c91?sid=aef7ae51-8273-4cfc-9e66-0226e8084592](https://www.loom.com/share/0b76968e11e74f54affba7e080800c91?sid=aef7ae51-8273-4cfc-9e66-0226e8084592 \"smartCard-embed\")"
+    },
+    {
+      "id": "680e30f0c96043d36c8ca644",
+      "name": "Download the mobile app",
+      "idList": "680e30f0c96043d36c8ca5fc",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-04-27T13:28:16.964Z",
+      "closed": false,
+      "desc": "**Trello brings all your ideas, to-dos, and tools together wherever you go!**\n\n[Get the mobile app](https://trello.com/platforms \"‌\") :iphone:and escape the clutter and chaos of scattered tasks.\n\n[https://www.loom.com/share/c9fcc8326c86478b9d052be88b133ba4?sid=40430591-d8bd-4b61-9074-ee220f083422](https://www.loom.com/share/c9fcc8326c86478b9d052be88b133ba4?sid=40430591-d8bd-4b61-9074-ee220f083422 \"smartCard-embed\")"
+    },
+    {
+      "id": "680e30f0c96043d36c8ca648",
+      "name": "Work smarter",
+      "idList": "680e30f0c96043d36c8ca5fc",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-04-27T13:28:16.932Z",
+      "closed": false,
+      "desc": "Supercharge your productivity in Trello with features like **automation, AI, card mirroring,** and **Power-ups**."
+    },
+    {
+      "id": "680e30f0c96043d36c8ca646",
+      "name": "Manage your team's projects",
+      "idList": "680e30f0c96043d36c8ca5fc",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-04-27T13:28:16.989Z",
+      "closed": false,
+      "desc": "**With Trello and Jira together, you can accomplish anything with cross-functional teams.**\n\nLove the ease of Trello but looking for project management features for your cross-functional teams? Check out **Jira**!\n\nJira combines powerful features _(subtasks, reporting, and more!)_ with an easy-to-use interface. Because it’s brought to you by the same company as Trello, it will also integrate with your Trello board through **Jira lists**, letting you manage your work wherever feels right to you.\n\n### Curious? [Try Jira now](https://www.atlassian.com/software/jira \"‌\")"
+    },
+    {
+      "id": "680e319633406893702c2a08",
+      "name": "Apply to Tamara",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:18:15.510Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "680e31a5ba73c5d0b28975d2",
+      "name": "Apply to Tabby",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:18:18.143Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "680e31aeb5d889d262f649fa",
+      "name": "Apply to MisPay",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:18:19.889Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "680e31b33cae32fdd54f2337",
+      "name": "Connect Google analytics",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:18:21.562Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "680e31b9bb599ff1bb715446",
+      "name": "Connect Hotjar",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:18:23.308Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "680e31c07994662097a7b99c",
+      "name": "Finish Landing Page",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:18:24.943Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "680e31c30bd10951039c9898",
+      "name": "3D Products Rendering Project",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:18:26.747Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "689c587d9905278a668d96da",
+      "name": "Numan The Man (a comical character representing the brand)",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:19:34.030Z",
+      "closed": false,
+      "desc": "Like CluelyTheFox\n\nShould the character be more representing of the character’s brand like a professional man maybe a linked in profile?"
+    },
+    {
+      "id": "689c58e3c52929642ea361a9",
+      "name": "مشاوير الظهر (multiple clips of driving walking, etc) errands in the harsh sun",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:20:35.535Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "689c5920c50a4e9349c4a143",
+      "name": "Interview scene (يعدل طاقة الثوب قبل يدخل)",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T09:21:37.002Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "68a06ed4c208a9149357dc05",
+      "name": "Chinese guy Walk",
+      "idList": "680e30f0c96043d36c8ca5fd",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-16T11:43:20.392Z",
+      "closed": false,
+      "desc": "https://www.instagram.com/reel/DJyjBgLpaOH/?igsh=cGIwNTNhejJudTJs"
+    },
+    {
+      "id": "689c6d18e1289f87b3963207",
+      "name": "Informational Routine UGC",
+      "idList": "680e30f0c96043d36c8ca5ff",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T10:47:24.114Z",
+      "closed": false,
+      "desc": "خطوة بخطوة نصور واحد يستعمل بصفة نفسه وهو يسوي الروتين كامل with voice over"
+    },
+    {
+      "id": "68a06ea838b43b6cea4c20ec",
+      "name": "Chinese Numan The Man Walk (Riyadh, New York, Dubai, London musical)",
+      "idList": "680e30f0c96043d36c8ca5ff",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-16T11:43:08.051Z",
+      "closed": false,
+      "desc": "https://www.instagram.com/reel/DJyjBgLpaOH/?igsh=cGIwNTNhejJudTJs"
+    }
+  ],
+  "lists": [
+    {
+      "id": "680e30f0c96043d36c8ca5fc",
+      "name": "Trello Starter Guide"
+    },
+    {
+      "id": "680e30f0c96043d36c8ca5fd",
+      "name": "Inspo Dump"
+    },
+    {
+      "id": "680e30f0c96043d36c8ca5fe",
+      "name": "Clips"
+    },
+    {
+      "id": "680e30f0c96043d36c8ca5ff",
+      "name": "Videos"
+    },
+    {
+      "id": "680e3150e83f0fe9eefd4ec9",
+      "name": "Scheduled"
+    },
+    {
+      "id": "689c584761b2bb2311b62bb9",
+      "name": "Done"
+    }
+  ],
+  "members": [
+    {
+      "id": "680e30d65e2a90321038a814",
+      "fullName": "Numan",
+      "username": "thatnumanbrand"
+    }
+  ],
+  "updated_at": "2025-08-24T12:25:49.937Z",
+  "updated_at_riyadh": "08/24/2025, 03:25:49 PM",
+  "sync_source": "trello-api"
+}
