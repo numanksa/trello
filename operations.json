@@ -1,1 +1,398 @@
-
+{
+  "id": "6881ce58233565dd2a7cf96b",
+  "name": "Operations",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "idOrganization": "680e30ef662f44022e3cae98",
+  "idEnterprise": null,
+  "pinned": false,
+  "url": "https://trello.com/b/0POvG9Pm/operations",
+  "shortUrl": "https://trello.com/b/0POvG9Pm",
+  "prefs": {
+    "permissionLevel": "org",
+    "hideVotes": false,
+    "voting": "members",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "showCompleteStatus": true,
+    "cardCounts": false,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [],
+    "switcherViews": [
+      {
+        "viewType": "Board",
+        "enabled": true
+      },
+      {
+        "viewType": "Table",
+        "enabled": true
+      },
+      {
+        "viewType": "Calendar",
+        "enabled": false
+      },
+      {
+        "viewType": "Dashboard",
+        "enabled": false
+      },
+      {
+        "viewType": "Timeline",
+        "enabled": false
+      },
+      {
+        "viewType": "Map",
+        "enabled": false
+      }
+    ],
+    "autoArchive": null,
+    "background": "gradient-earth",
+    "backgroundColor": "#3FA495",
+    "backgroundDarkColor": null,
+    "backgroundImage": "https://d2k1ftgv7pobq7.cloudfront.net/images/backgrounds/gradients/earth.svg",
+    "backgroundDarkImage": null,
+    "backgroundImageScaled": null,
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "sharedSourceUrl": null,
+    "backgroundBottomColor": "#60C6D2",
+    "backgroundTopColor": "#1F845A",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+  },
+  "cards": [
+    {
+      "id": "688a2ede718eb019574a37b1",
+      "name": "Task Management Framework",
+      "idList": "6881ce5f98572a49a037fbd5",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-07-30T14:43:12.598Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "6881cebadb22a5e027586b9d",
+      "name": "Website customer journey analysis",
+      "idList": "688a2fa15fef43853fe0722b",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-07-30T14:44:05.747Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "6881ceca129e93131ccac7c7",
+      "name": "Come up with customer KPIs",
+      "idList": "688a2fa000dab9b9aae3b14d",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:07:52.637Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "688a2fdfa8dd63771f3f355e",
+      "name": "Financial Statements & Accounting Software",
+      "idList": "688a2fa000dab9b9aae3b14d",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:06:37.948Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "68a1b67b773e9d065dfb5cf1",
+      "name": "New product photos with actual box",
+      "idList": "688a2fa000dab9b9aae3b14d",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:07:14.962Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "68a1b694d45263b574b4db9f",
+      "name": "Selling on Noon",
+      "idList": "6881ce64ea360dd9732af7ad",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:31:37.588Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "68a33d2899b0049a0df8d9b9",
+      "name": "National Day Campaign",
+      "idList": "6881ce64ea360dd9732af7ad",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:05:30.368Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "68967961e73acdfd98e55f2a",
+      "name": "Come up with content ideas",
+      "idList": "6881ce64ea360dd9732af7ad",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-08T22:26:04.923Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "6881cee569b492027ae7053a",
+      "name": "Connect Tabby & Tamara",
+      "idList": "6881ce6925c737eaf4190c1c",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:02:04.602Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "68aaf1b0b9aad96174487619",
+      "name": "Testing AI for UGC content",
+      "idList": "6881ce6925c737eaf4190c1c",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:04:33.965Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "6897724161c8129ac6b1a420",
+      "name": "QR Code Link Tree",
+      "idList": "6889fb8e2c5b8987896947bf",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T13:01:40.364Z",
+      "closed": false,
+      "desc": "Need to make QR Code link tree to put in thank you card"
+    },
+    {
+      "id": "6881ce838e0654bafd2b9a44",
+      "name": "Create & post content",
+      "idList": "6889fb8e2c5b8987896947bf",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:03:59.386Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "6881ce935c7cb927b307a0e2",
+      "name": "Install post-purchase bot",
+      "idList": "6889fb8e2c5b8987896947bf",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-13T13:01:56.306Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "6889fb8f2c5b898789694d17",
+      "name": "SEO | Search Engine Optimization",
+      "idList": "6889fb8e2c5b8987896947bf",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-07-30T11:01:47.651Z",
+      "closed": true,
+      "desc": ""
+    },
+    {
+      "id": "68a0c772add015874dca6570",
+      "name": "Follow up Ahmed",
+      "idList": "6889fb8e2c5b8987896947bf",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-16T18:01:22.849Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "6889fb63e488a01b7d865895",
+      "name": "SEO | Search Engine Optimization",
+      "idList": "6881ce7053ab9f9e7b34644e",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:01:45.266Z",
+      "closed": false,
+      "desc": "Added sitemap xml to Google Search Console\n\nCreated SEO optimization at zid website\n\nVerified website domain at Google"
+    },
+    {
+      "id": "68a858476e77dc2937accb0a",
+      "name": "AI Advisor with Trello",
+      "idList": "6881ce7053ab9f9e7b34644e",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:01:37.225Z",
+      "closed": false,
+      "desc": "Connecting ChatGPT to read our Trello system through Lovable and JSON Parsing"
+    },
+    {
+      "id": "68967910a3e2cd1ed18cc91f",
+      "name": "Webpage optimization",
+      "idList": "6881ce7053ab9f9e7b34644e",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:01:36.292Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "689678e21f34723af8a0b5d9",
+      "name": "Categories Page",
+      "idList": "6881ce7053ab9f9e7b34644e",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:01:35.052Z",
+      "closed": false,
+      "desc": ""
+    },
+    {
+      "id": "68987b7f1035b3df9953159b",
+      "name": "Numan Blog",
+      "idList": "6881ce7053ab9f9e7b34644e",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:01:33.440Z",
+      "closed": false,
+      "desc": "[blog.getnuman.com](http://blog.getnuman.com \"‌\")"
+    },
+    {
+      "id": "6881cea3e2e723e2568a819b",
+      "name": "Install customer / kpi analysis tool",
+      "idList": "6881ce7053ab9f9e7b34644e",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:01:32.328Z",
+      "closed": false,
+      "desc": "Installed Google Analytics and connected the websites"
+    },
+    {
+      "id": "6889fc0310081b328ae923bc",
+      "name": "Renew Zid Subscription & Bank Details",
+      "idList": "6881ce7053ab9f9e7b34644e",
+      "idMembers": [],
+      "labels": [],
+      "due": null,
+      "dateLastActivity": "2025-08-24T11:01:27.385Z",
+      "closed": false,
+      "desc": "Renewed Zid Subscription & Added bank details"
+    }
+  ],
+  "lists": [
+    {
+      "id": "6881ce5f98572a49a037fbd5",
+      "name": "Data"
+    },
+    {
+      "id": "688a2fa15fef43853fe0722b",
+      "name": "Sand"
+    },
+    {
+      "id": "688a2fa000dab9b9aae3b14d",
+      "name": "Pebble"
+    },
+    {
+      "id": "6881ce64ea360dd9732af7ad",
+      "name": "Rocks"
+    },
+    {
+      "id": "6881cedb75f6d2b657f2cc8f",
+      "name": "New List"
+    },
+    {
+      "id": "6881ce6925c737eaf4190c1c",
+      "name": "Process - Meshaal"
+    },
+    {
+      "id": "6889fb8e2c5b8987896947bf",
+      "name": "Process - Yacine"
+    },
+    {
+      "id": "6881ce6df7f7a6dfbdb79096",
+      "name": "Output - Meshaal"
+    },
+    {
+      "id": "6889fba552addc73a02ae333",
+      "name": "Output - Yacine"
+    },
+    {
+      "id": "6881ce7053ab9f9e7b34644e",
+      "name": "Done"
+    }
+  ],
+  "members": [
+    {
+      "id": "680e30d65e2a90321038a814",
+      "fullName": "Numan",
+      "username": "thatnumanbrand"
+    }
+  ],
+  "updated_at": "2025-08-24T12:25:48.227Z",
+  "updated_at_riyadh": "08/24/2025, 03:25:48 PM",
+  "sync_source": "trello-api"
+}
